@@ -7,7 +7,7 @@
     <li> Me chamo Carolina, moro em São Paulo - SP, porém nasci no interior  :cowboy_hat_face:  
     <li> Após seguir uma longa carreira jurídica, hoje sou desenvolvedora de software web :computer: </li>
     <li> Adoro cantar, conversar, conhecer novos lugares, assistir séries e jogar :video_game: :airplane: :tv: </li>
-    <li> Curiosidade: assistir vídeos fofos (se tiver cachorro, melhor!) e de humor, revigora meu dia :dancers:</li>
+    <li> Curiosidade: assistir vídeos fofos e de humor, revigora meu dia :dancers:</li>
   </div>
 </div>
 
