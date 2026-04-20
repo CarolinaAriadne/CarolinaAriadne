@@ -4,7 +4,7 @@
 
 <div align="center">
   <div align="left" style="display: inline_block">
-    <li> Me chamo Carolina, moro em São Taubaté - SP, porém nasci no interior  :cowboy_hat_face:  
+    <li> Me chamo Carolina, moro em Taubaté - SP, porém nasci no interior  :cowboy_hat_face:  
     <li> Após seguir uma longa carreira jurídica, hoje sou desenvolvedora de software web :computer: </li>
     <li> Estou investindo em aprimorar as habilidades práticas nas tecnologias abaixo citadas, além de estar aprendendendo uma nova linguagem: C# :books: </li>
     <li> Adoro cantar, conversar, conhecer novos lugares, assistir séries e jogar :video_game: :airplane: :tv: </li>
